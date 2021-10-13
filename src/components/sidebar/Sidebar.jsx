@@ -44,15 +44,15 @@ export default function Sidebar() {
             <Link to="/users" className="link">
               <li className="sidebarListItem">
                 <PermIdentity className="sidebarIcon" />
-                Users
+                Product Invetory
               </li>
             </Link>
-            <Link to="/products" className="link">
+            {/* <Link to="/products" className="link">
               <li className="sidebarListItem">
                 <Storefront className="sidebarIcon" />
                 Products
               </li>
-            </Link>
+            </Link> */}
             <li className="sidebarListItem">
               <AttachMoney className="sidebarIcon" />
               Transactions
