@@ -9,9 +9,18 @@ Farming as a Service offers innovative, professional-grade solutions for agricul
 • The first FaaS category is farm management solutions, which offer information sharing, analytics and precision farming tools. This involves information management between farmers, government, corporates, financial institutions and advisory bodies. The second FaaS category is production assistance, which offers on-farm resources to aid production. This involves equipment rental, labour services and utility services.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-
 # Technology Used
 ## ReactJS
+## MUI
+## CSS
+## ChartJS
+## reCharts
+## NodeJS
+## mongoDB
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
