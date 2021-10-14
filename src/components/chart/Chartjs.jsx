@@ -26,7 +26,7 @@ const Chartjs = () => {
     }
     return (
         
-        <div className="chart" style={{height : '250px', width : '960px', margin: 'auto', padding: '10px 60px 60px 60px'}} >
+        <div className="chart" style={{height : '250px', width : '960px', margin: 'auto',position:"relative", top:"35px", padding: '10px 60px 60px 60px'}} >
             <h2 className="chartTitle">Buyer's Data</h2>
             <Pie 
               height={400}
