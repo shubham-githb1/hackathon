@@ -13,7 +13,7 @@ export default function User() {
   return (
     <div className="user">
       <div className="userTitleContainer">
-        <h1 className="userTitle">Edit User</h1>
+        <h1 className="userTitle">Edit Product</h1>
         <Link to="/newUser">
           <button className="userAddButton">Create</button>
         </Link>
@@ -27,8 +27,8 @@ export default function User() {
               className="userShowImg"
             /> */}
             <div className="userShowTopTitle">
-              <span className="userShowUsername">Anna Becker</span>
-              <span className="userShowUserTitle">Software Engineer</span>
+              <span className="userShowUsername">Mohit Srivastav</span>
+              <span className="userShowUserTitle">Order Details</span>
             </div>
           </div>
           <div className="userShowBottom">
@@ -61,7 +61,7 @@ export default function User() {
           <form className="userUpdateForm">
             <div className="userUpdateLeft">
               <div className="userUpdateItem">
-                <label>Username</label>
+                <label>Customer</label>
                 <input
                   type="text"
                   placeholder="annabeck99"
@@ -69,22 +69,23 @@ export default function User() {
                 />
               </div>
               <div className="userUpdateItem">
-                <label>Full Name</label>
+                <label>Product Description</label>
                 <input
                   type="text"
-                  placeholder="Anna Becker"
+                  placeholder="Details"
                   className="userUpdateInput"
+
                 />
               </div>
               <div className="userUpdateItem">
-                <label>Email</label>
+                <label>Cost</label>
                 <input
                   type="text"
-                  placeholder="annabeck99@gmail.com"
+                  placeholder="Cost"
                   className="userUpdateInput"
                 />
               </div>
-              <div className="userUpdateItem">
+              {/* <div className="userUpdateItem">
                 <label>Phone</label>
                 <input
                   type="text"
@@ -99,7 +100,7 @@ export default function User() {
                   placeholder="New York | USA"
                   className="userUpdateInput"
                 />
-              </div>
+              </div> */}
             </div>
             <div className="userUpdateRight">
               <div className="userUpdateUpload">

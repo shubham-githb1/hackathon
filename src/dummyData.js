@@ -305,7 +305,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 3,
@@ -314,7 +314,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 4,
@@ -323,7 +323,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 5,
@@ -332,7 +332,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 6,
@@ -341,7 +341,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 7,
@@ -350,7 +350,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 8,
@@ -359,7 +359,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 10,
@@ -368,7 +368,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
     {
       id: 10,
@@ -377,7 +377,7 @@ export const userData = [
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       // email: "jon@gmail.com",
       status: "active",
-      transaction: "$120.00",
+      transaction: "$12.00",
     },
   ];
 

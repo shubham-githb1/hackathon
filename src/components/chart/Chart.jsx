@@ -13,6 +13,7 @@ export default function Chart({ title, data, dataKey, grid }) {
   return (
     <div className="chart">
       <h2 className="chartTitle" style={{marginBottom: '40px'}} >{title}</h2>
+  
       <ResponsiveContainer width="100%" style={{margin: 'auto'}} aspect={4 / 1}>
         <LineChart data={data}>
           <XAxis dataKey="name" stroke="#5550bd" />

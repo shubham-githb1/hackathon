@@ -16,7 +16,7 @@ export default function UserList() {
     { field: "id", headerName: "ID", width: 90 },
     {
       field: "user",
-      headerName: "User",
+      headerName: "Product",
       width: 200,
       renderCell: (params) => {
         return (
@@ -27,15 +27,15 @@ export default function UserList() {
         );
       },
     },
-    { field: "email", headerName: "Email", width: 200 },
+    // { field: "email", headerName: "Email", width: 200 },
     {
       field: "status",
-      headerName: "Status",
+      headerName: "Stock Status",
       width: 120,
     },
     {
       field: "transaction",
-      headerName: "Transaction Volume",
+      headerName: "Cost/unit",
       width: 160,
     },
     {

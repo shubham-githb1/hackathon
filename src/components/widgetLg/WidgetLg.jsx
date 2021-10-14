@@ -30,7 +30,7 @@ export default function WidgetLg() {
           <th className='widgetLgTh'>Customer</th>
           <th className='widgetLgTh'>Date</th>
           <th className='widgetLgTh'>Amount</th>
-          <th className='widgetLgTh'>Status</th>
+          <th className='widgetLgTh'>Order Status</th>
         </tr>
         <tr className='widgetLgTr'>
           <td className='widgetLgUser'>
