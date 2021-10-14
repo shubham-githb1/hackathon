@@ -20,6 +20,13 @@ Farming as a Service offers innovative, professional-grade solutions for agricul
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# Our Mission 
+## • Allow for data-driven decision making.
+## • Process and analyse data and disseminate information via mobile alerts or dashboards
+## • Training various stakeholders using assimilated data
+## • Improving the dissemination of information to increase technical knowledge
+
+
 
 
 
