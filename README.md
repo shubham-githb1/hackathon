@@ -11,9 +11,13 @@ Farming as a Service offers innovative, professional-grade solutions for agricul
 
 
 # Technology Used
+## ReactJS
 
 
-.........................................................................................................................................................................
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
