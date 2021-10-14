@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+<!-- # Getting Started with Create React App -->
 
 # Project Description
+
+FaaS allows stakeholders to make data-driven decisions to boost productivity and efficiency. The data is collected directly through drones, satellites, farmers, market agents and government agencies. The gathered information is further processed and analysed to find what works well on the sector. The analysed information is leveraged by farmers to adopt precision farming practices to boost productivity, government to empower field officers to provide timely support, and corporates to optimise input application and real-time monitoring of crop output.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+# Technology Used
+
+
+.........................................................................................................................................................................
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
