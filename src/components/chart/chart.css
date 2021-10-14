@@ -1,10 +1,21 @@
 .chart {
+<<<<<<< HEAD
   margin: 20px;
   padding: 100px;
+=======
+  height: 275px;
+  margin: 20px;
+  padding: 50px; 
+>>>>>>> e83a228 (first commit)
   -webkit-box-shadow: 0px 0px 15px -10px rgba(19, 1, 1, 0.75);
   box-shadow: 0px 0px 15px -10px rgba(0, 0, 0, 0.75);
 }
 
 .chartTitle {
+<<<<<<< HEAD
   margin-bottom: 50px;
+=======
+  margin-bottom: 10px;
+  text-align: center;
+>>>>>>> e83a228 (first commit)
 }

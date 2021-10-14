@@ -3337,6 +3337,14 @@
   "resolved" "https://registry.npmjs.org/char-regex/-/char-regex-1.0.2.tgz"
   "version" "1.0.2"
 
+<<<<<<< HEAD
+=======
+"chart.js@^3.5.0", "chart.js@^3.5.1":
+  "integrity" "sha512-m5kzt72I1WQ9LILwQC4syla/LD/N413RYv2Dx2nnTkRS9iv/ey1xLTt0DnPc/eWV4zI+BgEgDYBIzbQhZHc/PQ=="
+  "resolved" "https://registry.npmjs.org/chart.js/-/chart.js-3.5.1.tgz"
+  "version" "3.5.1"
+
+>>>>>>> e83a228 (first commit)
 "check-types@^11.1.1":
   "integrity" "sha512-tzWzvgePgLORb9/3a0YenggReLKAIb2owL03H2Xdoe5pKcUyWRSEQ8xfCar8t2SIAuEDwtmx2da1YB52YuHQMQ=="
   "resolved" "https://registry.npmjs.org/check-types/-/check-types-11.1.2.tgz"
@@ -9499,6 +9507,16 @@
     "regenerator-runtime" "^0.13.7"
     "whatwg-fetch" "^3.4.1"
 
+<<<<<<< HEAD
+=======
+"react-chartjs-2@^3.0.5":
+  "integrity" "sha512-fYr4E82agaZi9IFMe5GtOZ6WE/HWdxy/KywLNOzXsqgPkD2oo1IlrQLKMLUki/2UXko3p95TR2L8Q2rEss/opQ=="
+  "resolved" "https://registry.npmjs.org/react-chartjs-2/-/react-chartjs-2-3.0.5.tgz"
+  "version" "3.0.5"
+  dependencies:
+    "lodash" "^4.17.19"
+
+>>>>>>> e83a228 (first commit)
 "react-dev-utils@^11.0.3":
   "integrity" "sha512-dx0LvIGHcOPtKbeiSUM4jqpBl3TcY7CDjZdfOIcKeznE7BWr9dg0iPG90G5yfVQ+p/rGNMXdbfStvzQZEVEi4A=="
   "resolved" "https://registry.npmjs.org/react-dev-utils/-/react-dev-utils-11.0.4.tgz"
@@ -12329,6 +12347,14 @@
     "y18n" "^4.0.0"
     "yargs-parser" "^18.1.2"
 
+<<<<<<< HEAD
+=======
+"yarn@^1.22.15":
+  "integrity" "sha512-AzoEDxj256BOS/jqDXA3pjyhmi4FRBBUMgYoTHI4EIt2EhREkvH0soPVEtnD+DQIJfU5R9bKhcZ1H9l8zPWeoA=="
+  "resolved" "https://registry.npmjs.org/yarn/-/yarn-1.22.15.tgz"
+  "version" "1.22.15"
+
+>>>>>>> e83a228 (first commit)
 "yocto-queue@^0.1.0":
   "integrity" "sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q=="
   "resolved" "https://registry.npmjs.org/yocto-queue/-/yocto-queue-0.1.0.tgz"
