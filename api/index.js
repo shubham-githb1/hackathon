@@ -8,7 +8,7 @@ const PORT = 5000;
 const app = express();
 
 mongoose.connect(
-  "mongodb+srv://akash:qwerty123@cluster0.v25wr.mongodb.net/Social?retryWrites=true&w=majority",
+  "mongodb+srv://akash:password@cluster0.v25wr.mongodb.net/Social?retryWrites=true&w=majority",
   { useNewUrlParser: true },
   () => {
     console.log("Connected to MongoDB Server");
